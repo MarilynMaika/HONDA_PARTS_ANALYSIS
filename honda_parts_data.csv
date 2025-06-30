@@ -1,0 +1,436 @@
+assessment_id,vehicle_make,vehicle make,vehicle_model,vehicle model,model_code,model code,part/service,category_id,category,part or service,service_provider,part_condition,part condition,part_type,part type,quantity,fix_type,fix type,damage_id,damage,estimated_repair_days,for_painting,paint_type,paint type,panels_to_paint,unit_price (vat incl. 16%),date
+56,24,Honda,246,CR-V,5346,DBA-RM4,1683,1,Body,Boot Catch Panel,44,2,-,-,-,1,1,replace,1,Scratched,4,no,-,-,,,10/23/2023 8:36
+56,24,Honda,246,CR-V,5346,DBA-RM4,1311,1,Body,LHR Wheel Arch Moulding,44,1,used,1,Dealer/OEM,1,0,repair,11,Broken,4,no,-,-,,9280,10/23/2023 8:36
+56,24,Honda,246,CR-V,5346,DBA-RM4,48,1,Body,LHS Rear Wing,44,2,-,-,-,1,1,replace,1,Scratched,4,yes,1,Metallic,4,,10/23/2023 8:36
+56,24,Honda,246,CR-V,5346,DBA-RM4,99,1,Body,Tailgate Assembly,81,1,used,1,Dealer/OEM,1,0,repair,4,Buckled,4,yes,1,Metallic,4,139200,10/23/2023 8:36
+56,24,Honda,246,CR-V,5346,DBA-RM4,1151,1,Body,Tailgate Shocks,44,1,used,1,Dealer/OEM,1,0,repair,9,Bent,4,no,-,-,,5800,10/23/2023 8:36
+56,24,Honda,246,CR-V,5346,DBA-RM4,700,3,Electrical,LHS Tail Light,44,1,used,1,Dealer/OEM,1,0,repair,7,Cracked,4,no,-,-,,29000,10/23/2023 8:36
+56,24,Honda,246,CR-V,5346,DBA-RM4,1347,8,Services,Body Jack,44,2,-,-,-,1,-,-,-,-,4,no,-,-,,5000,10/23/2023 8:36
+56,24,Honda,246,CR-V,5346,DBA-RM4,902,8,Services,Labour Charges,44,2,-,-,-,1,-,-,-,-,4,no,-,-,,12000,10/23/2023 8:36
+56,24,Honda,246,CR-V,5346,DBA-RM4,903,8,Services,Painting Per Panel,44,2,-,-,-,1,-,-,-,-,4,no,-,-,,6000,10/23/2023 8:36
+56,24,Honda,246,CR-V,5346,DBA-RM4,1961,1,Body,LHS Tail Light Upper,29,1,used,1,Dealer/OEM,1,0,repair,7,Cracked,4,no,-,-,,9280,10/23/2023 8:36
+56,24,Honda,246,CR-V,5346,DBA-RM4,82,1,Body,Rear Bumper,37,1,used,1,Dealer/OEM,1,0,repair,7,Cracked,4,yes,1,Metallic,4,40600,10/23/2023 8:36
+56,24,Honda,246,CR-V,5346,DBA-RM4,30,1,Body,Front Bumper,44,2,-,-,-,1,1,replace,1,Scratched,4,yes,1,Metallic,4,,10/23/2023 8:36
+56,24,Honda,246,CR-V,5346,DBA-RM4,1063,1,Body,LHS Fog Light Cover,44,1,used,1,Dealer/OEM,1,0,repair,2,Torn,4,no,-,-,,7540,10/23/2023 8:36
+56,24,Honda,246,CR-V,5346,DBA-RM4,1029,8,Services,2k Primer,44,2,-,-,-,1,-,-,-,-,4,no,-,-,,2000,10/23/2023 8:36
+56,24,Honda,246,CR-V,5346,DBA-RM4,1010,8,Services,Miscellaneous,44,2,-,-,-,1,-,-,-,-,4,no,-,-,,2500,10/23/2023 8:36
+87,24,Honda,294,Odyssey,3069,DBA-CR1,27,1,Body,Dust Collector,214,1,used,1,Dealer/OEM,1,0,repair,19,Crushed,5,no,-,-,,4000,11/16/2023 6:48
+87,24,Honda,294,Odyssey,3069,DBA-CR1,30,1,Body,Front Bumper,214,2,-,-,-,1,1,replace,1,Scratched,5,yes,1,Metallic,4,,11/16/2023 6:48
+87,24,Honda,294,Odyssey,3069,DBA-CR1,46,1,Body,LHS Front Wing,214,2,-,-,-,1,1,replace,1,Scratched,5,yes,1,Metallic,4,,11/16/2023 6:48
+87,24,Honda,294,Odyssey,3069,DBA-CR1,52,1,Body,LHS Front Wing Liner,214,1,used,1,Dealer/OEM,1,0,repair,8,Ripped off,5,no,-,-,,5000,11/16/2023 6:48
+87,24,Honda,294,Odyssey,3069,DBA-CR1,68,1,Body,LHS Side Mirror With Blinker,214,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,no,-,-,,18000,11/16/2023 6:48
+87,24,Honda,294,Odyssey,3069,DBA-CR1,135,1,Body,LHS Rear Door,214,2,-,-,-,1,1,replace,1,Scratched,5,yes,1,Metallic,4,,11/16/2023 6:48
+87,24,Honda,294,Odyssey,3069,DBA-CR1,136,1,Body,LHS Rear Sliding Door,214,2,-,-,-,1,1,replace,1,Scratched,5,yes,1,Metallic,4,,11/16/2023 6:48
+87,24,Honda,294,Odyssey,3069,DBA-CR1,1593,6,Wheels,LHF Tyre,214,0,new,1,Dealer/OEM,1,0,repair,2,Torn,5,no,-,-,,12000,11/16/2023 6:48
+87,24,Honda,294,Odyssey,3069,DBA-CR1,1029,8,Services,2k Primer,214,2,-,-,-,1,-,-,-,-,5,no,-,-,,2000,11/16/2023 6:48
+87,24,Honda,294,Odyssey,3069,DBA-CR1,1010,8,Services,Miscellaneous,214,2,-,-,-,1,-,-,-,-,5,no,-,-,,2000,11/16/2023 6:48
+87,24,Honda,294,Odyssey,3069,DBA-CR1,902,8,Services,Labour Charges,214,2,-,-,-,1,-,-,-,-,5,no,-,-,,12000,11/16/2023 6:48
+87,24,Honda,294,Odyssey,3069,DBA-CR1,903,8,Services,Painting Per Panel,214,2,-,-,-,1,-,-,-,-,5,no,-,-,,6000,11/16/2023 6:48
+125,24,Honda,246,CR-V,2801,DBA-RE4,82,1,Body,Rear Bumper,214,2,-,-,-,1,1,replace,3,Dented,3,yes,1,Metallic,3,,12/5/2023 13:58
+125,24,Honda,246,CR-V,2801,DBA-RE4,49,1,Body,RHS Rear Wing,214,2,-,-,-,1,1,replace,3,Dented,3,yes,1,Metallic,3,,12/5/2023 13:58
+125,24,Honda,246,CR-V,2801,DBA-RE4,99,1,Body,Tailgate Assembly,37,1,used,1,Dealer/OEM,1,0,repair,19,Crushed,3,yes,1,Metallic,3,75400,12/5/2023 13:58
+125,24,Honda,246,CR-V,2801,DBA-RE4,701,3,Electrical,RHS Tail Light,37,1,used,1,Dealer/OEM,1,0,repair,11,Broken,3,no,-,-,,17400,12/5/2023 13:58
+125,24,Honda,246,CR-V,2801,DBA-RE4,1029,8,Services,2k Primer,214,2,-,-,-,1,-,-,-,-,3,no,-,-,,2000,12/5/2023 13:58
+125,24,Honda,246,CR-V,2801,DBA-RE4,1010,8,Services,Miscellaneous,214,2,-,-,-,1,-,-,-,-,3,no,-,-,,1500,12/5/2023 13:58
+125,24,Honda,246,CR-V,2801,DBA-RE4,902,8,Services,Labour Charges,214,2,-,-,-,1,-,-,-,-,3,no,-,-,,8000,12/5/2023 13:58
+125,24,Honda,246,CR-V,2801,DBA-RE4,903,8,Services,Painting Per Panel,214,2,-,-,-,1,-,-,-,-,3,no,-,-,,5500,12/5/2023 13:58
+127,24,Honda,310,Stream,3190,DBA-RN6,4,1,Body,Bonnet Lid,37,1,used,1,Dealer/OEM,1,0,repair,4,Buckled,5,yes,2,Ordinary,2,20880,12/7/2023 8:34
+127,24,Honda,310,Stream,3190,DBA-RN6,30,1,Body,Front Bumper,37,1,used,1,Dealer/OEM,1,0,repair,19,Crushed,5,yes,2,Ordinary,2,34800,12/7/2023 8:34
+127,24,Honda,310,Stream,3190,DBA-RN6,930,1,Body,Front Bumper Support,213,1,used,1,Dealer/OEM,1,0,repair,9,Bent,5,no,-,-,,8700,12/7/2023 8:34
+127,24,Honda,310,Stream,3190,DBA-RN6,21,1,Body,Front Grille,213,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,no,-,-,,17400,12/7/2023 8:34
+127,24,Honda,310,Stream,3190,DBA-RN6,698,3,Electrical,RHS Headlight (Xenon),29,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,no,-,-,,20880,12/7/2023 8:34
+127,24,Honda,310,Stream,3190,DBA-RN6,711,2,Engine & Chassis,Cooling Radiator,29,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,no,-,-,,17284,12/7/2023 8:34
+127,24,Honda,310,Stream,3190,DBA-RN6,1029,8,Services,2k Primer,213,2,-,-,-,1,-,-,-,-,5,no,-,-,,2000,12/7/2023 8:34
+127,24,Honda,310,Stream,3190,DBA-RN6,1028,8,Services,A/C Gas,213,2,-,-,-,1,-,-,-,-,5,no,-,-,,4000,12/7/2023 8:34
+127,24,Honda,310,Stream,3190,DBA-RN6,1010,8,Services,Miscellaneous,213,2,-,-,-,1,-,-,-,-,5,no,-,-,,2000,12/7/2023 8:34
+127,24,Honda,310,Stream,3190,DBA-RN6,902,8,Services,Labour Charges,213,2,-,-,-,1,-,-,-,-,5,no,-,-,,8000,12/7/2023 8:34
+127,24,Honda,310,Stream,3190,DBA-RN6,903,8,Services,Painting Per Panel,213,2,-,-,-,1,-,-,-,-,5,no,-,-,,5000,12/7/2023 8:34
+198,24,Honda,256,Fit,2848,DBA-GK3,975,1,Body,Boot Lock Garnish,224,1,used,0,Generic,1,0,repair,11,Broken,2,no,-,-,,9000,2/20/2024 8:24
+198,24,Honda,256,Fit,2848,DBA-GK3,902,8,Services,Labour Charges,224,2,-,-,-,1,-,-,-,-,2,no,-,-,,5000,2/20/2024 8:24
+198,24,Honda,256,Fit,2848,DBA-GK3,903,8,Services,Painting Per Panel,224,2,-,-,-,1,-,-,-,-,2,no,-,-,,5500,2/20/2024 8:24
+198,24,Honda,256,Fit,2848,DBA-GK3,1010,8,Services,Miscellaneous,224,2,-,-,-,1,-,-,-,-,2,no,-,-,,1000,2/20/2024 8:24
+198,24,Honda,256,Fit,2848,DBA-GK3,700,3,Electrical,LHS Tail Light,224,1,used,0,Generic,1,0,repair,19,Crushed,2,no,-,-,,17000,2/20/2024 8:24
+198,24,Honda,256,Fit,2848,DBA-GK3,82,1,Body,Rear Bumper,224,2,-,-,-,1,1,replace,1,Scratched,2,yes,1,Metallic,1,0,2/20/2024 8:24
+204,24,Honda,256,Fit,2826,DBA-GE6,76,1,Body,Nose Cut (Ordinary Lights),259,0,new,1,Dealer/OEM,1,0,repair,19,Crushed,10,yes,2,Ordinary,9,110000,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,1444,1,Body,Wing Liner,259,1,used,1,Dealer/OEM,2,0,repair,8,Ripped off,10,no,-,-,,3500,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,1859,1,Body,Front Bumper Slides,259,1,used,1,Dealer/OEM,2,0,repair,11,Broken,10,no,-,-,,3000,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,931,1,Body,Front Number Plate Chrome,259,1,used,1,Dealer/OEM,1,0,repair,9,Bent,10,no,-,-,,900,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,46,1,Body,LHS Front Wing,259,1,used,1,Dealer/OEM,1,0,repair,19,Crushed,10,yes,2,Ordinary,9,10000,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,927,1,Body,LHS Valance,259,1,used,1,Dealer/OEM,1,0,repair,19,Crushed,10,yes,2,Ordinary,9,14000,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,729,2,Engine & Chassis,LHS Front Shock Absober,259,1,used,1,Dealer/OEM,1,0,repair,9,Bent,10,no,-,-,,6500,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,717,2,Engine & Chassis,LHS Rack End,259,1,used,1,Dealer/OEM,1,0,repair,9,Bent,10,no,-,-,,3000,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,737,2,Engine & Chassis,LHS Front Tie Rod,259,1,used,1,Dealer/OEM,1,0,repair,9,Bent,10,no,-,-,,3000,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,721,2,Engine & Chassis,LHS Control Arm,259,1,used,1,Dealer/OEM,1,0,repair,9,Bent,10,no,-,-,,5000,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,727,2,Engine & Chassis,LHS Front Drive Shaft,259,1,used,1,Dealer/OEM,1,0,repair,9,Bent,10,no,-,-,,6500,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,1398,1,Body,LHF Knuckle With Hub,259,1,used,1,Dealer/OEM,1,0,repair,9,Bent,10,no,-,-,,8500,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,151,6,Wheels,Alloy Rim,259,1,used,1,Dealer/OEM,1,0,repair,3,Dented,10,no,-,-,,8500,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,1593,6,Wheels,LHF Tyre,259,1,used,1,Dealer/OEM,1,0,repair,2,Torn,10,no,-,-,,6500,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,1037,2,Engine & Chassis,LHS Front Stabilizer Link,259,1,used,1,Dealer/OEM,1,0,repair,9,Bent,10,no,-,-,,3000,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,1590,1,Body,LHS Lower Ball Joint,259,1,used,1,Dealer/OEM,1,0,repair,9,Bent,10,no,-,-,,3500,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,1209,3,Electrical,Alternator Belt,259,1,used,1,Dealer/OEM,1,0,repair,15,Leaking,10,no,-,-,,2500,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,899,7,Consumables,Engine Oil,259,1,used,1,Dealer/OEM,1,0,repair,3,Dented,10,no,-,-,,3000,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,822,2,Engine & Chassis,Oil Filter,259,1,used,1,Dealer/OEM,1,0,repair,3,Dented,10,no,-,-,,1000,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,925,2,Engine & Chassis,A/C Pipes,259,1,used,1,Dealer/OEM,1,0,repair,3,Dented,10,no,-,-,,3480,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,1073,2,Engine & Chassis,Exhaust Muffler,259,1,used,1,Dealer/OEM,1,0,repair,3,Dented,10,no,-,-,,10000,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,134,1,Body,RHS Front Door,259,1,used,1,Dealer/OEM,1,0,repair,3,Dented,10,no,-,-,,18000,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,137,1,Body,RHS Rear Door,259,1,used,1,Dealer/OEM,1,0,repair,3,Dented,10,yes,2,Ordinary,9,18000,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,49,1,Body,RHS Rear Wing,259,1,used,1,Dealer/OEM,1,0,repair,3,Dented,10,yes,2,Ordinary,9,35000,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,701,3,Electrical,RHS Tail Light,259,1,used,1,Dealer/OEM,1,0,repair,7,Cracked,10,no,-,-,,13000,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,944,1,Body,Right Hand Front Fixed Glass,259,1,used,1,Dealer/OEM,1,0,repair,20,Smashed,10,no,-,-,,4500,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,1021,1,Body,RHS 3rd  Uppper Fixed Glass,259,1,used,1,Dealer/OEM,1,0,repair,20,Smashed,10,no,-,-,,4500,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,82,1,Body,Rear Bumper,,2,-,-,-,1,1,replace,3,Dented,10,yes,2,Ordinary,9,,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,65,1,Body,RHS Running Board,,2,-,-,-,1,1,replace,3,Dented,10,yes,2,Ordinary,9,,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,47,1,Body,RHS Front Wing,259,1,used,1,Dealer/OEM,1,1,replace,1,Scratched,10,yes,2,Ordinary,9,10000,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,133,1,Body,LHS Front Door,,2,-,-,-,1,1,replace,1,Scratched,10,yes,2,Ordinary,9,,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,902,8,Services,Labour Charges,,2,-,-,-,1,-,-,-,-,10,no,-,-,,20000,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,903,8,Services,Painting Per Panel,,2,-,-,-,1,-,-,-,-,10,no,-,-,,5500,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,1010,8,Services,Miscellaneous,,2,-,-,-,1,-,-,-,-,10,no,-,-,,3000,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,1029,8,Services,2k Primer,,2,-,-,-,1,-,-,-,-,10,no,-,-,,2000,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,1002,8,Services,Gas Welding,,2,-,-,-,1,-,-,-,-,10,no,-,-,,3500,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,1028,8,Services,A/C Gas,,2,-,-,-,1,-,-,-,-,10,no,-,-,,4500,2/26/2024 7:46
+204,24,Honda,256,Fit,2826,DBA-GE6,70,1,Body,RHS Side Mirror,259,1,used,1,Dealer/OEM,1,0,repair,11,Broken,10,yes,2,Ordinary,9,14000,2/26/2024 7:46
+209,24,Honda,318,Vezel,3125,DAA-RU3,47,1,Body,RHS Front Wing,100,1,used,1,Dealer/OEM,1,0,repair,3,Dented,7,yes,1,Metallic,6,29000,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,1485,5,Accessories,Body Sticker,100,1,used,1,Dealer/OEM,1,0,repair,19,Crushed,7,no,-,-,,5800,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,53,1,Body,RHS Front Wing Liner,100,1,used,1,Dealer/OEM,1,0,repair,2,Torn,7,no,-,-,,4640,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,698,3,Electrical,RHS Headlight (Xenon),100,1,used,1,Dealer/OEM,1,0,repair,10,Missing,7,no,-,-,,69600,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,134,1,Body,RHS Front Door,100,2,-,-,-,1,1,replace,3,Dented,7,yes,1,Metallic,6,,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,30,1,Body,Front Bumper,100,2,-,-,-,1,1,replace,1,Scratched,7,no,-,-,,,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,1072,1,Body,RHF Wheel Arch Moulding,100,1,used,1,Dealer/OEM,1,0,repair,2,Torn,7,no,-,-,,6960,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,1310,1,Body,RHR Wheel Arch Moulding,100,2,-,-,-,1,1,replace,1,Scratched,7,no,-,-,,,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,137,1,Body,RHS Rear Door,100,2,-,-,-,1,1,replace,3,Dented,7,yes,1,Metallic,6,,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,49,1,Body,RHS Rear Wing,100,2,-,-,-,1,1,replace,3,Dented,7,yes,1,Metallic,6,,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,82,1,Body,Rear Bumper,100,2,-,-,-,1,1,replace,3,Dented,7,yes,1,Metallic,6,,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,701,3,Electrical,RHS Tail Light,81,1,used,1,Dealer/OEM,1,0,repair,11,Broken,7,no,-,-,,29000,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,65,1,Body,RHS Running Board,100,1,used,1,Dealer/OEM,1,0,repair,2,Torn,7,yes,1,Metallic,6,9280,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,980,5,Accessories,LHS Running Board Cover,100,1,used,1,Dealer/OEM,1,0,repair,2,Torn,7,yes,1,Metallic,6,8700,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,718,2,Engine & Chassis,RHS Rack End,100,1,used,1,Dealer/OEM,1,0,repair,8,Ripped off,7,no,-,-,,4640,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,738,2,Engine & Chassis,RHS Front Tie Rod,100,1,used,1,Dealer/OEM,1,0,repair,9,Bent,7,no,-,-,,4640,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,731,2,Engine & Chassis,RHS Front Shock Absober,100,1,used,1,Dealer/OEM,1,0,repair,9,Bent,7,no,-,-,,15080,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,724,2,Engine & Chassis,RHS Control Arm,100,1,used,1,Dealer/OEM,1,0,repair,9,Bent,7,no,-,-,,6380,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,1038,2,Engine & Chassis,RHS Front Stabilizer Link,100,1,used,1,Dealer/OEM,1,0,repair,9,Bent,7,no,-,-,,2088,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,902,8,Services,Labour Charges,100,2,-,-,-,1,-,-,-,-,7,no,-,-,,13000,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,1010,8,Services,Miscellaneous,100,2,-,-,-,1,-,-,-,-,7,no,-,-,,2000,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,1029,8,Services,2k Primer,100,2,-,-,-,1,-,-,-,-,7,no,-,-,,2000,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,904,8,Services,Wheel Alignment,100,2,-,-,-,1,-,-,-,-,7,no,-,-,,2000,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,916,1,Body,RHS Front Bumper Slide,100,1,used,1,Dealer/OEM,1,0,repair,8,Ripped off,7,yes,1,Metallic,6,4060,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,918,1,Body,RHS Rear Bumper Slide,100,1,used,1,Dealer/OEM,1,0,repair,11,Broken,7,yes,1,Metallic,6,4060,2/27/2024 12:48
+209,24,Honda,318,Vezel,3125,DAA-RU3,903,8,Services,Painting Per Panel,100,2,-,-,-,1,-,-,-,-,7,no,-,-,,5500,2/27/2024 12:48
+215,24,Honda,318,Vezel,3125,DAA-RU3,82,1,Body,Rear Bumper,100,1,used,1,Dealer/OEM,1,0,repair,19,Crushed,7,yes,1,Metallic,4,33000,3/6/2024 6:08
+215,24,Honda,318,Vezel,3125,DAA-RU3,99,1,Body,Tailgate Assembly,100,1,used,1,Dealer/OEM,1,0,repair,19,Crushed,7,yes,1,Metallic,4,154000,3/6/2024 6:08
+215,24,Honda,318,Vezel,3125,DAA-RU3,1310,1,Body,RHR Wheel Arch Moulding,100,1,used,1,Dealer/OEM,1,0,repair,19,Crushed,7,yes,1,Metallic,4,7150,3/6/2024 6:08
+215,24,Honda,318,Vezel,3125,DAA-RU3,701,3,Electrical,RHS Tail Light,100,1,used,1,Dealer/OEM,1,0,repair,11,Broken,7,no,-,-,,27500,3/6/2024 6:08
+215,24,Honda,318,Vezel,3125,DAA-RU3,51,1,Body,RHS Rear Wing Inner Cover,100,1,used,1,Dealer/OEM,1,0,repair,2,Torn,7,no,-,-,,13200,3/6/2024 6:08
+215,24,Honda,318,Vezel,3125,DAA-RU3,1150,8,Services,Boot Floor Jigging,100,2,-,-,-,1,-,-,-,-,7,no,-,-,,8000,3/6/2024 6:08
+215,24,Honda,318,Vezel,3125,DAA-RU3,137,1,Body,RHS Rear Door,100,2,-,-,-,1,1,replace,3,Dented,7,yes,1,Metallic,4,,3/6/2024 6:08
+215,24,Honda,318,Vezel,3125,DAA-RU3,49,1,Body,RHS Rear Wing,100,2,-,-,-,1,1,replace,3,Dented,7,yes,1,Metallic,4,,3/6/2024 6:08
+215,24,Honda,318,Vezel,3125,DAA-RU3,903,8,Services,Painting Per Panel,100,2,-,-,-,1,-,-,-,-,7,no,-,-,,6000,3/6/2024 6:08
+215,24,Honda,318,Vezel,3125,DAA-RU3,1010,8,Services,Miscellaneous,100,2,-,-,-,1,-,-,-,-,7,no,-,-,,2000,3/6/2024 6:08
+215,24,Honda,318,Vezel,3125,DAA-RU3,1029,8,Services,2k Primer,100,2,-,-,-,1,-,-,-,-,7,no,-,-,,2000,3/6/2024 6:08
+215,24,Honda,318,Vezel,3125,DAA-RU3,1002,8,Services,Gas Welding,100,2,-,-,-,1,-,-,-,-,7,no,-,-,,3500,3/6/2024 6:08
+215,24,Honda,318,Vezel,3125,DAA-RU3,902,8,Services,Labour Charges,100,2,-,-,-,1,-,-,-,-,7,no,-,-,,14000,3/6/2024 6:08
+215,24,Honda,318,Vezel,3125,DAA-RU3,1179,1,Body,RHS Rear Bumper End Piece,100,1,used,1,Dealer/OEM,1,0,repair,3,Dented,7,yes,1,Metallic,4,7700,3/6/2024 6:08
+222,24,Honda,1243,Ace,5655,125,2235,1,Body,Foot Rest and Rubbers,259,1,used,1,Dealer/OEM,1,0,repair,9,Bent,3,no,-,-,,2320,3/7/2024 8:26
+222,24,Honda,1243,Ace,5655,125,864,2,Engine & Chassis,Gear Lever,259,1,used,1,Dealer/OEM,1,0,repair,11,Broken,3,no,-,-,,290,3/7/2024 8:26
+222,24,Honda,1243,Ace,5655,125,2231,1,Body,Cluth Lever,259,1,used,1,Dealer/OEM,1,0,repair,11,Broken,3,no,-,-,,290,3/7/2024 8:26
+222,24,Honda,1243,Ace,5655,125,70,1,Body,RHS Side Mirror,259,1,used,1,Dealer/OEM,1,0,repair,11,Broken,3,no,-,-,,522,3/7/2024 8:26
+222,24,Honda,1243,Ace,5655,125,66,1,Body,LHS Side Mirror,259,1,used,1,Dealer/OEM,1,0,repair,11,Broken,3,no,-,-,,522,3/7/2024 8:26
+222,24,Honda,1243,Ace,5655,125,682,3,Electrical,Brake Light,259,1,used,1,Dealer/OEM,1,0,repair,11,Broken,3,no,-,-,,2320,3/7/2024 8:26
+222,24,Honda,1243,Ace,5655,125,707,3,Electrical,LHS Indicator Light,259,1,used,1,Dealer/OEM,1,0,repair,11,Broken,3,no,-,-,,464,3/7/2024 8:26
+222,24,Honda,1243,Ace,5655,125,2237,1,Body,RHS Cover,259,1,used,1,Dealer/OEM,1,0,repair,11,Broken,3,no,-,-,,2900,3/7/2024 8:26
+222,24,Honda,1243,Ace,5655,125,2238,1,Body,Ball Race and Cones,259,1,used,1,Dealer/OEM,1,0,repair,19,Crushed,3,no,-,-,,1740,3/7/2024 8:26
+222,24,Honda,1243,Ace,5655,125,902,8,Services,Labour Charges,,2,-,-,-,1,-,-,-,-,3,no,-,-,,3000,3/7/2024 8:26
+222,24,Honda,1243,Ace,5655,125,2233,1,Body,Crush Guard,259,1,used,1,Dealer/OEM,1,0,repair,9,Bent,3,no,-,-,,2320,3/7/2024 8:26
+239,24,Honda,318,Vezel,3125,DAA-RU3,72,1,Body,RHS Side Mirror With Blinker,37,1,used,1,Dealer/OEM,1,0,repair,8,Ripped off,3,yes,2,Ordinary,4,40600,3/21/2024 7:08
+239,24,Honda,318,Vezel,3125,DAA-RU3,903,8,Services,Painting Per Panel,55,2,-,-,-,1,-,-,-,-,3,no,-,-,,5500,3/21/2024 7:08
+239,24,Honda,318,Vezel,3125,DAA-RU3,902,8,Services,Labour Charges,55,2,-,-,-,1,-,-,-,-,3,no,-,-,,10000,3/21/2024 7:08
+239,24,Honda,318,Vezel,3125,DAA-RU3,1010,8,Services,Miscellaneous,55,2,-,-,-,1,-,-,-,-,3,no,-,-,,1000,3/21/2024 7:08
+241,24,Honda,256,Fit,2848,DBA-GK3,975,1,Body,Boot Lock Garnish,224,1,used,0,Generic,1,0,repair,11,Broken,2,no,-,-,,9860,2/20/2024 8:24
+241,24,Honda,256,Fit,2848,DBA-GK3,902,8,Services,Labour Charges,224,2,-,-,-,1,-,-,-,-,2,no,-,-,,4000,2/20/2024 8:24
+241,24,Honda,256,Fit,2848,DBA-GK3,903,8,Services,Painting Per Panel,224,2,-,-,-,1,-,-,-,-,2,no,-,-,,5500,2/20/2024 8:24
+241,24,Honda,256,Fit,2848,DBA-GK3,1010,8,Services,Miscellaneous,224,2,-,-,-,1,-,-,-,-,2,no,-,-,,1000,2/20/2024 8:24
+241,24,Honda,256,Fit,2848,DBA-GK3,700,3,Electrical,LHS Tail Light,224,1,used,0,Generic,1,0,repair,19,Crushed,2,no,-,-,,23200,2/20/2024 8:24
+241,24,Honda,256,Fit,2848,DBA-GK3,82,1,Body,Rear Bumper,224,2,-,-,-,1,1,replace,1,Scratched,2,yes,1,Metallic,1,0,2/20/2024 8:24
+245,24,Honda,246,CR-V,5372,DBA-RM1,82,1,Body,Rear Bumper,259,0,new,1,Dealer/OEM,1,0,repair,2,Torn,5,yes,1,Metallic,2,34800,3/25/2024 8:33
+245,24,Honda,246,CR-V,5372,DBA-RM1,19,1,Body,Rear Bumper Reflectors (Pair),259,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,no,-,-,,2900,3/25/2024 8:33
+245,24,Honda,246,CR-V,5372,DBA-RM1,1311,1,Body,LHR Wheel Arch Moulding,100,1,used,1,Dealer/OEM,1,0,repair,2,Torn,5,yes,1,Metallic,2,7540,3/25/2024 8:33
+245,24,Honda,246,CR-V,5372,DBA-RM1,99,1,Body,Tailgate Assembly,100,2,-,-,-,1,1,replace,1,Scratched,5,yes,1,Metallic,2,,3/25/2024 8:33
+245,24,Honda,246,CR-V,5372,DBA-RM1,13,1,Body,Boot Floor,100,2,-,-,-,1,1,replace,3,Dented,5,yes,1,Metallic,2,,3/25/2024 8:33
+245,24,Honda,246,CR-V,5372,DBA-RM1,1072,1,Body,RHF Wheel Arch Moulding,100,2,-,-,-,1,1,replace,1,Scratched,5,yes,1,Metallic,2,,3/25/2024 8:33
+245,24,Honda,246,CR-V,5372,DBA-RM1,902,8,Services,Labour Charges,100,2,-,-,-,1,-,-,-,-,5,no,-,-,,8000,3/25/2024 8:33
+245,24,Honda,246,CR-V,5372,DBA-RM1,903,8,Services,Painting Per Panel,100,2,-,-,-,1,-,-,-,-,5,no,-,-,,5000,3/25/2024 8:33
+245,24,Honda,246,CR-V,5372,DBA-RM1,1010,8,Services,Miscellaneous,100,2,-,-,-,1,-,-,-,-,5,no,-,-,,1000,3/25/2024 8:33
+245,24,Honda,246,CR-V,5372,DBA-RM1,1029,8,Services,2k Primer,100,2,-,-,-,1,-,-,-,-,5,no,-,-,,2000,3/25/2024 8:33
+245,24,Honda,246,CR-V,5372,DBA-RM1,1150,8,Services,Boot Floor Jigging,100,2,-,-,-,1,-,-,-,-,5,no,-,-,,5000,3/25/2024 8:33
+341,24,Honda,318,Vezel,3125,DAA-RU3,30,1,Body,Front Bumper,56,2,-,-,-,1,1,replace,3,Dented,5,yes,2,Ordinary,3,,7/10/2024 8:17
+341,24,Honda,318,Vezel,3125,DAA-RU3,698,3,Electrical,RHS Headlight (Xenon),56,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,no,-,-,,55000,7/10/2024 8:17
+341,24,Honda,318,Vezel,3125,DAA-RU3,1072,1,Body,RHF Wheel Arch Moulding,56,1,used,1,Dealer/OEM,1,0,repair,2,Torn,5,no,-,-,,8000,7/10/2024 8:17
+341,24,Honda,318,Vezel,3125,DAA-RU3,47,1,Body,RHS Front Wing,56,2,-,-,-,1,1,replace,3,Dented,5,yes,2,Ordinary,3,,7/10/2024 8:17
+341,24,Honda,318,Vezel,3125,DAA-RU3,4,1,Body,Bonnet Lid,56,2,-,-,-,1,1,replace,1,Scratched,5,yes,2,Ordinary,3,,7/10/2024 8:17
+341,24,Honda,318,Vezel,3125,DAA-RU3,902,8,Services,Labour Charges,56,2,-,-,-,1,-,-,-,-,5,no,-,-,,6000,7/10/2024 8:17
+341,24,Honda,318,Vezel,3125,DAA-RU3,903,8,Services,Painting Per Panel,56,2,-,-,-,1,-,-,-,-,5,no,-,-,,6500,7/10/2024 8:17
+341,24,Honda,318,Vezel,3125,DAA-RU3,1029,8,Services,2k Primer,56,2,-,-,-,1,-,-,-,-,5,no,-,-,,2000,7/10/2024 8:17
+341,24,Honda,318,Vezel,3125,DAA-RU3,1010,8,Services,Miscellaneous,56,2,-,-,-,1,-,-,-,-,5,no,-,-,,1000,7/10/2024 8:17
+341,24,Honda,318,Vezel,3125,DAA-RU3,2208,8,Services,Bumper Repairs,56,2,-,-,-,1,-,-,-,-,5,no,-,-,,2000,7/10/2024 8:17
+341,24,Honda,318,Vezel,3125,DAA-RU3,916,1,Body,RHS Front Bumper Slide,56,1,used,1,Dealer/OEM,1,0,repair,10,Missing,5,no,-,-,,4500,7/10/2024 8:17
+344,24,Honda,294,Odyssey,3069,DBA-CR1,1005,8,Services,Fibre Repairs,47,2,-,-,-,1,-,-,-,-,5,no,-,-,,2500,7/11/2024 12:45
+344,24,Honda,294,Odyssey,3069,DBA-CR1,1063,1,Body,LHS Fog Light Cover,47,1,used,1,Dealer/OEM,1,0,repair,10,Missing,5,no,-,-,,6500,7/11/2024 12:45
+344,24,Honda,294,Odyssey,3069,DBA-CR1,68,1,Body,LHS Side Mirror With Blinker,47,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,no,-,-,,32000,7/11/2024 12:45
+344,24,Honda,294,Odyssey,3069,DBA-CR1,17,1,Body,LHS Front Bumper Slide,47,1,used,1,Dealer/OEM,1,0,repair,10,Missing,5,no,-,-,,4500,7/11/2024 12:45
+344,24,Honda,294,Odyssey,3069,DBA-CR1,46,1,Body,LHS Front Wing,47,2,-,-,-,1,1,replace,1,Scratched,5,yes,2,Ordinary,3,,7/11/2024 12:45
+344,24,Honda,294,Odyssey,3069,DBA-CR1,133,1,Body,LHS Front Door,47,2,-,-,-,1,1,replace,1,Scratched,5,yes,2,Ordinary,3,,7/11/2024 12:45
+344,24,Honda,294,Odyssey,3069,DBA-CR1,902,8,Services,Labour Charges,47,2,-,-,-,1,-,-,-,-,5,no,-,-,,6000,7/11/2024 12:45
+344,24,Honda,294,Odyssey,3069,DBA-CR1,903,8,Services,Painting Per Panel,47,2,-,-,-,1,-,-,-,-,5,no,-,-,,6000,7/11/2024 12:45
+344,24,Honda,294,Odyssey,3069,DBA-CR1,1010,8,Services,Miscellaneous,47,2,-,-,-,1,-,-,-,-,5,no,-,-,,1000,7/11/2024 12:45
+344,24,Honda,294,Odyssey,3069,DBA-CR1,1029,8,Services,2k Primer,47,2,-,-,-,1,-,-,-,-,5,no,-,-,,2000,7/11/2024 12:45
+344,24,Honda,294,Odyssey,3069,DBA-CR1,1405,1,Body,Front Bumper Plastic Repairs,47,2,-,-,-,1,1,replace,1,Scratched,5,yes,2,Ordinary,3,,7/11/2024 12:45
+349,24,Honda,318,Vezel,3125,DAA-RU3,1498,1,Body,Front Grille (with Badge),213,1,used,1,Dealer/OEM,1,0,repair,11,Broken,2,no,-,-,,51111.1,7/17/2024 12:21
+349,24,Honda,318,Vezel,3125,DAA-RU3,30,1,Body,Front Bumper,213,2,-,-,-,1,1,replace,1,Scratched,2,yes,1,Metallic,1,,7/17/2024 12:21
+349,24,Honda,318,Vezel,3125,DAA-RU3,902,8,Services,Labour Charges,213,2,-,-,-,1,-,-,-,-,2,no,-,-,,5555.5,7/17/2024 12:21
+349,24,Honda,318,Vezel,3125,DAA-RU3,903,8,Services,Painting Per Panel,213,2,-,-,-,1,-,-,-,-,2,no,-,-,,6000,7/17/2024 12:21
+349,24,Honda,318,Vezel,3125,DAA-RU3,1029,8,Services,2k Primer,213,2,-,-,-,1,-,-,-,-,2,no,-,-,,2000,7/17/2024 12:21
+349,24,Honda,318,Vezel,3125,DAA-RU3,1010,8,Services,Miscellaneous,213,2,-,-,-,1,-,-,-,-,2,no,-,-,,1000,7/17/2024 12:21
+349,24,Honda,318,Vezel,3125,DAA-RU3,1044,8,Services,Rim Polishing,213,2,-,-,-,1,-,-,-,-,2,no,-,-,,2000,7/17/2024 12:21
+351,24,Honda,318,Vezel,3125,DAA-RU3,1616,1,Body,Boot Lid With Lights,56,1,used,1,Dealer/OEM,1,0,repair,3,Dented,6,yes,2,Ordinary,4,170000,7/18/2024 9:37
+351,24,Honda,318,Vezel,3125,DAA-RU3,1525,1,Body,Rear Bumper Sponge,56,1,used,1,Dealer/OEM,1,0,repair,2,Torn,6,no,-,-,,12000,7/18/2024 9:37
+351,24,Honda,318,Vezel,3125,DAA-RU3,2430,1,Body,Boot Lock,56,1,used,1,Dealer/OEM,1,0,repair,14,Malfunctioned,6,no,-,-,,8000,7/18/2024 9:37
+351,24,Honda,318,Vezel,3125,DAA-RU3,700,3,Electrical,LHS Tail Light,56,1,used,1,Dealer/OEM,1,0,repair,7,Cracked,6,no,-,-,,27777.78,7/18/2024 9:37
+351,24,Honda,318,Vezel,3125,DAA-RU3,1889,5,Accessories,LHS Wheel Arch Finisher,56,1,used,1,Dealer/OEM,1,0,repair,11,Broken,6,no,-,-,,12000,7/18/2024 9:37
+351,24,Honda,318,Vezel,3125,DAA-RU3,2054,1,Body,Boot Garnish,56,1,used,1,Dealer/OEM,1,0,repair,11,Broken,6,no,-,-,,11111.11,7/18/2024 9:37
+351,24,Honda,318,Vezel,3125,DAA-RU3,1563,1,Body,Rubber Dust,56,1,used,1,Dealer/OEM,1,0,repair,2,Torn,6,no,-,-,,12000,7/18/2024 9:37
+351,24,Honda,318,Vezel,3125,DAA-RU3,902,8,Services,Labour Charges,56,2,-,-,-,1,-,-,-,-,6,no,-,-,,13333.33,7/18/2024 9:37
+351,24,Honda,318,Vezel,3125,DAA-RU3,903,8,Services,Painting Per Panel,56,2,-,-,-,1,-,-,-,-,6,no,-,-,,6000,7/18/2024 9:37
+351,24,Honda,318,Vezel,3125,DAA-RU3,1029,8,Services,2k Primer,56,2,-,-,-,1,-,-,-,-,6,no,-,-,,2000,7/18/2024 9:37
+351,24,Honda,318,Vezel,3125,DAA-RU3,1010,8,Services,Miscellaneous,56,2,-,-,-,1,-,-,-,-,6,no,-,-,,3000,7/18/2024 9:37
+351,24,Honda,318,Vezel,3125,DAA-RU3,1150,8,Services,Boot Floor Jigging,56,2,-,-,-,1,-,-,-,-,6,no,-,-,,8000,7/18/2024 9:37
+351,24,Honda,318,Vezel,3125,DAA-RU3,48,1,Body,LHS Rear Wing,56,2,-,-,-,1,1,replace,3,Dented,6,yes,2,Ordinary,4,,7/18/2024 9:37
+351,24,Honda,318,Vezel,3125,DAA-RU3,49,1,Body,RHS Rear Wing,56,2,-,-,-,1,1,replace,3,Dented,6,yes,2,Ordinary,4,,7/18/2024 9:37
+351,24,Honda,318,Vezel,3125,DAA-RU3,1119,1,Body,Rear Bumper With Reflectors,56,1,used,1,Dealer/OEM,1,0,repair,2,Torn,6,yes,2,Ordinary,4,38888.89,7/18/2024 9:37
+365,24,Honda,261,Freed,2644,DBA-GB3,99,1,Body,Tailgate Assembly,37,1,used,1,Dealer/OEM,1,0,repair,4,Buckled,2,yes,1,Metallic,2,46400,7/26/2024 7:06
+365,24,Honda,261,Freed,2644,DBA-GB3,1651,1,Body,Rear Tow Hook,52,1,used,1,Dealer/OEM,1,0,repair,19,Crushed,2,no,-,-,,5000,7/26/2024 7:06
+365,24,Honda,261,Freed,2644,DBA-GB3,82,1,Body,Rear Bumper,52,2,-,-,-,1,1,replace,1,Scratched,2,yes,1,Metallic,2,,7/26/2024 7:06
+365,24,Honda,261,Freed,2644,DBA-GB3,902,8,Services,Labour Charges,52,2,-,-,-,1,-,-,-,-,2,no,-,-,,12000,7/26/2024 7:06
+365,24,Honda,261,Freed,2644,DBA-GB3,903,8,Services,Painting Per Panel,52,2,-,-,-,1,-,-,-,-,2,no,-,-,,6000,7/26/2024 7:06
+365,24,Honda,261,Freed,2644,DBA-GB3,1029,8,Services,2k Primer,52,2,-,-,-,1,-,-,-,-,2,no,-,-,,2500,7/26/2024 7:06
+365,24,Honda,261,Freed,2644,DBA-GB3,1010,8,Services,Miscellaneous,52,2,-,-,-,1,-,-,-,-,2,no,-,-,,2500,7/26/2024 7:06
+420,24,Honda,256,Fit,2826,DBA-GE6,30,1,Body,Front Bumper,37,1,used,1,Dealer/OEM,1,0,repair,2,Torn,5,yes,2,Ordinary,9,32480,9/24/2024 9:22
+420,24,Honda,256,Fit,2826,DBA-GE6,711,2,Engine & Chassis,Cooling Radiator,213,2,-,-,-,1,1,replace,15,Leaking,5,no,-,-,,,9/24/2024 9:22
+420,24,Honda,256,Fit,2826,DBA-GE6,17,1,Body,LHS Front Bumper Slide,37,1,used,1,Dealer/OEM,1,0,repair,10,Missing,5,no,-,-,,1740,9/24/2024 9:22
+420,24,Honda,256,Fit,2826,DBA-GE6,913,1,Body,LHS Front Stone Guard,213,1,used,1,Dealer/OEM,1,0,repair,2,Torn,5,no,-,-,,3800,9/24/2024 9:22
+420,24,Honda,256,Fit,2826,DBA-GE6,72,1,Body,RHS Side Mirror With Blinker,37,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,yes,2,Ordinary,9,16240,9/24/2024 9:22
+420,24,Honda,256,Fit,2826,DBA-GE6,134,1,Body,RHS Front Door,213,2,-,-,-,1,1,replace,1,Scratched,5,yes,2,Ordinary,9,,9/24/2024 9:22
+420,24,Honda,256,Fit,2826,DBA-GE6,133,1,Body,LHS Front Door,213,2,-,-,-,1,1,replace,1,Scratched,5,yes,2,Ordinary,9,,9/24/2024 9:22
+420,24,Honda,256,Fit,2826,DBA-GE6,135,1,Body,LHS Rear Door,213,2,-,-,-,1,1,replace,1,Scratched,5,yes,2,Ordinary,9,,9/24/2024 9:22
+420,24,Honda,256,Fit,2826,DBA-GE6,137,1,Body,RHS Rear Door,213,2,-,-,-,1,1,replace,1,Scratched,5,yes,2,Ordinary,9,,9/24/2024 9:22
+420,24,Honda,256,Fit,2826,DBA-GE6,46,1,Body,LHS Front Wing,213,2,-,-,-,1,1,replace,1,Scratched,5,yes,2,Ordinary,9,,9/24/2024 9:22
+420,24,Honda,256,Fit,2826,DBA-GE6,47,1,Body,RHS Front Wing,213,2,-,-,-,1,1,replace,1,Scratched,5,yes,2,Ordinary,9,,9/24/2024 9:22
+420,24,Honda,256,Fit,2826,DBA-GE6,48,1,Body,LHS Rear Wing,213,2,-,-,-,1,1,replace,1,Scratched,5,no,-,-,,,9/24/2024 9:22
+420,24,Honda,256,Fit,2826,DBA-GE6,49,1,Body,RHS Rear Wing,213,2,-,-,-,1,1,replace,1,Scratched,5,yes,2,Ordinary,9,,9/24/2024 9:22
+420,24,Honda,256,Fit,2826,DBA-GE6,902,8,Services,Labour Charges,213,2,-,-,-,1,-,-,-,-,5,no,-,-,,12000,9/24/2024 9:22
+420,24,Honda,256,Fit,2826,DBA-GE6,903,8,Services,Painting Per Panel,213,2,-,-,-,1,-,-,-,-,5,no,-,-,,5000,9/24/2024 9:22
+420,24,Honda,256,Fit,2826,DBA-GE6,1029,8,Services,2k Primer,213,2,-,-,-,1,-,-,-,-,5,no,-,-,,1800,9/24/2024 9:22
+420,24,Honda,256,Fit,2826,DBA-GE6,1010,8,Services,Miscellaneous,213,2,-,-,-,1,-,-,-,-,5,no,-,-,,1200,9/24/2024 9:22
+420,24,Honda,256,Fit,2826,DBA-GE6,900,7,Consumables,Coolant,213,0,new,0,Generic,1,0,repair,15,Leaking,5,no,-,-,,2000,9/24/2024 9:22
+420,24,Honda,256,Fit,2826,DBA-GE6,924,1,Body,Radiator Panel,213,2,-,-,-,1,1,replace,3,Dented,5,yes,2,Ordinary,9,,9/24/2024 9:22
+420,24,Honda,256,Fit,2826,DBA-GE6,1002,8,Services,Gas Welding,213,2,-,-,-,1,-,-,-,-,5,no,-,-,,1700,9/24/2024 9:22
+429,24,Honda,318,Vezel,3125,DAA-RU3,694,3,Electrical,LHS Headlight (Xenon),56,1,used,1,Dealer/OEM,1,0,repair,11,Broken,3,no,-,-,,75400,10/3/2024 13:05
+429,24,Honda,318,Vezel,3125,DAA-RU3,30,1,Body,Front Bumper,56,2,-,-,-,1,1,replace,1,Scratched,3,yes,1,Metallic,2,,10/3/2024 13:05
+429,24,Honda,318,Vezel,3125,DAA-RU3,980,5,Accessories,LHS Running Board Cover,56,1,used,1,Dealer/OEM,1,0,repair,2,Torn,3,yes,1,Metallic,2,14000,10/3/2024 13:05
+429,24,Honda,318,Vezel,3125,DAA-RU3,133,1,Body,LHS Front Door,56,2,-,-,-,1,1,replace,1,Scratched,3,yes,1,Metallic,2,,10/3/2024 13:05
+429,24,Honda,318,Vezel,3125,DAA-RU3,903,8,Services,Painting Per Panel,56,2,-,-,-,1,-,-,-,-,3,no,-,-,,5500,10/3/2024 13:05
+429,24,Honda,318,Vezel,3125,DAA-RU3,902,8,Services,Labour Charges,56,2,-,-,-,1,-,-,-,-,3,no,-,-,,4000,10/3/2024 13:05
+429,24,Honda,318,Vezel,3125,DAA-RU3,1029,8,Services,2k Primer,56,2,-,-,-,1,-,-,-,-,3,no,-,-,,2000,10/3/2024 13:05
+429,24,Honda,318,Vezel,3125,DAA-RU3,1010,8,Services,Miscellaneous,56,2,-,-,-,1,-,-,-,-,3,no,-,-,,1500,10/3/2024 13:05
+452,24,Honda,256,Fit,2826,DBA-GE6,76,1,Body,Nose Cut (Ordinary Lights),29,1,used,1,Dealer/OEM,1,0,repair,19,Crushed,5,yes,1,Metallic,6,81200,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,4,1,Body,Bonnet Lid,37,1,used,1,Dealer/OEM,1,0,repair,19,Crushed,5,yes,1,Metallic,6,17400,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,998,1,Body,Right Bonnet Hinge,29,1,used,1,Dealer/OEM,1,0,repair,9,Bent,5,no,-,-,,3480,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,9,1,Body,Left Bonnet Hinge,29,1,used,1,Dealer/OEM,1,0,repair,9,Bent,5,no,-,-,,3480,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,17,1,Body,LHS Front Bumper Slide,37,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,no,-,-,,2320,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,916,1,Body,RHS Front Bumper Slide,37,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,no,-,-,,2320,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,919,1,Body,Washer Bottle,29,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,no,-,-,,2900,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,53,1,Body,RHS Front Wing Liner,52,1,used,1,Dealer/OEM,1,0,repair,2,Torn,5,no,-,-,,6500,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,1186,3,Electrical,Alarm Siren,52,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,no,-,-,,8000,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,931,1,Body,Front Number Plate Chrome,29,1,used,1,Dealer/OEM,1,0,repair,19,Crushed,5,no,-,-,,1160,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,895,1,Body,Steering Airbag,29,1,used,1,Dealer/OEM,1,0,repair,21,Deployed,5,no,-,-,,10440,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,891,4,Interior,Dashboard SRS Air Bag (Complete),29,1,used,1,Dealer/OEM,1,0,repair,21,Deployed,5,no,-,-,,22040,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,675,3,Electrical,Air Bag Sensor/SRS Sensor,52,1,used,1,Dealer/OEM,1,0,repair,14,Malfunctioned,5,no,-,-,,7800,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,889,4,Interior,Driver Seat Belt,52,1,used,1,Dealer/OEM,1,0,repair,14,Malfunctioned,5,no,-,-,,6000,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,887,4,Interior,Co-Driver Seat Belt,52,1,used,1,Dealer/OEM,1,0,repair,14,Malfunctioned,5,no,-,-,,6000,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,1353,2,Engine & Chassis,Radiator Pipe,52,1,used,1,Dealer/OEM,1,0,repair,2,Torn,5,no,-,-,,5800,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,925,2,Engine & Chassis,A/C Pipes,52,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,no,-,-,,4200,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,828,2,Engine & Chassis,RHS Engine Mounting,52,1,used,1,Dealer/OEM,1,0,repair,2,Torn,5,no,-,-,,4500,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,46,1,Body,LHS Front Wing,52,2,-,-,-,1,1,replace,3,Dented,5,yes,1,Metallic,6,,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,47,1,Body,RHS Front Wing,52,2,-,-,-,1,1,replace,3,Dented,5,yes,1,Metallic,6,,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,133,1,Body,LHS Front Door,52,2,-,-,-,1,1,replace,3,Dented,5,yes,1,Metallic,6,,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,134,1,Body,RHS Front Door,52,2,-,-,-,1,1,replace,3,Dented,5,yes,1,Metallic,6,,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,902,8,Services,Labour Charges,52,2,-,-,-,1,-,-,-,-,5,no,-,-,,18500,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,903,8,Services,Painting Per Panel,52,2,-,-,-,1,-,-,-,-,5,no,-,-,,5000,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,1029,8,Services,2k Primer,52,2,-,-,-,1,-,-,-,-,5,no,-,-,,2400,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,1028,8,Services,A/C Gas,52,2,-,-,-,1,-,-,-,-,5,no,-,-,,4000,10/25/2024 8:57
+452,24,Honda,256,Fit,2826,DBA-GE6,1010,8,Services,Miscellaneous,52,2,-,-,-,1,-,-,-,-,5,no,-,-,,2100,10/25/2024 8:57
+463,24,Honda,246,CR-V,2801,DBA-RE4,27,1,Body,Dust Collector,37,1,used,1,Dealer/OEM,1,0,repair,11,Broken,3,no,-,-,,4640,10/31/2024 11:56
+463,24,Honda,246,CR-V,2801,DBA-RE4,36,1,Body,Front Bumper (With Skirting),105,1,used,1,Dealer/OEM,1,0,repair,2,Torn,3,yes,2,Ordinary,2,35000,10/31/2024 11:56
+463,24,Honda,246,CR-V,2801,DBA-RE4,688,3,Electrical,LHS Fog Light,105,1,used,1,Dealer/OEM,1,0,repair,11,Broken,3,no,-,-,,6500,10/31/2024 11:56
+463,24,Honda,246,CR-V,2801,DBA-RE4,46,1,Body,LHS Front Wing,105,2,-,-,-,1,1,replace,3,Dented,3,yes,2,Ordinary,2,,10/31/2024 11:56
+463,24,Honda,246,CR-V,2801,DBA-RE4,913,1,Body,LHS Front Stone Guard,105,1,used,1,Dealer/OEM,1,0,repair,10,Missing,3,no,-,-,,6500,10/31/2024 11:56
+463,24,Honda,246,CR-V,2801,DBA-RE4,914,1,Body,RHS Front Stone Guard,105,1,used,1,Dealer/OEM,1,0,repair,2,Torn,3,no,-,-,,6500,10/31/2024 11:56
+463,24,Honda,246,CR-V,2801,DBA-RE4,17,1,Body,LHS Front Bumper Slide,37,1,used,1,Dealer/OEM,1,0,repair,11,Broken,3,no,-,-,,2320,10/31/2024 11:56
+463,24,Honda,246,CR-V,2801,DBA-RE4,1423,1,Body,Lower Radiator Panel,105,2,-,-,-,1,1,replace,3,Dented,3,yes,2,Ordinary,2,,10/31/2024 11:56
+463,24,Honda,246,CR-V,2801,DBA-RE4,710,2,Engine & Chassis,A/C Radiator,105,1,used,1,Dealer/OEM,1,0,repair,15,Leaking,3,no,-,-,,18500,10/31/2024 11:56
+463,24,Honda,246,CR-V,2801,DBA-RE4,902,8,Services,Labour Charges,105,2,-,-,-,1,-,-,-,-,3,no,-,-,,9000,10/31/2024 11:56
+463,24,Honda,246,CR-V,2801,DBA-RE4,903,8,Services,Painting Per Panel,105,2,-,-,-,1,-,-,-,-,3,no,-,-,,5500,10/31/2024 11:56
+463,24,Honda,246,CR-V,2801,DBA-RE4,1002,8,Services,Gas Welding,105,2,-,-,-,1,-,-,-,-,3,no,-,-,,2500,10/31/2024 11:56
+463,24,Honda,246,CR-V,2801,DBA-RE4,1029,8,Services,2k Primer,105,2,-,-,-,1,-,-,-,-,3,no,-,-,,2000,10/31/2024 11:56
+463,24,Honda,246,CR-V,2801,DBA-RE4,1028,8,Services,A/C Gas,105,2,-,-,-,1,-,-,-,-,3,no,-,-,,4500,10/31/2024 11:56
+463,24,Honda,246,CR-V,2801,DBA-RE4,1010,8,Services,Miscellaneous,105,2,-,-,-,1,-,-,-,-,3,no,-,-,,1500,10/31/2024 11:56
+468,24,Honda,294,Odyssey,3065,DBA-RB1,104,1,Body,Front Windscreen,37,0,new,1,Dealer/OEM,1,0,repair,20,Smashed,4,no,-,-,,20300,11/6/2024 13:33
+468,24,Honda,294,Odyssey,3065,DBA-RB1,1918,1,Body,Front Windscreen Moulding,52,1,used,1,Dealer/OEM,1,0,repair,2,Torn,4,no,-,-,,6000,11/6/2024 13:33
+468,24,Honda,294,Odyssey,3065,DBA-RB1,926,1,Body,Windscreen Sealant,37,0,new,1,Dealer/OEM,1,0,repair,15,Leaking,4,no,-,-,,1218,11/6/2024 13:33
+468,24,Honda,294,Odyssey,3065,DBA-RB1,694,3,Electrical,LHS Headlight (Xenon),52,1,used,1,Dealer/OEM,1,0,repair,11,Broken,4,no,-,-,,35000,11/6/2024 13:33
+468,24,Honda,294,Odyssey,3065,DBA-RB1,46,1,Body,LHS Front Wing,52,1,used,1,Dealer/OEM,1,0,repair,3,Dented,4,yes,2,Ordinary,3,21000,11/6/2024 13:33
+468,24,Honda,294,Odyssey,3065,DBA-RB1,17,1,Body,LHS Front Bumper Slide,52,1,used,1,Dealer/OEM,1,0,repair,2,Torn,4,no,-,-,,5500,11/6/2024 13:33
+468,24,Honda,294,Odyssey,3065,DBA-RB1,4,1,Body,Bonnet Lid,52,1,used,1,Dealer/OEM,1,0,repair,3,Dented,4,yes,2,Ordinary,3,42000,11/6/2024 13:33
+468,24,Honda,294,Odyssey,3065,DBA-RB1,913,1,Body,LHS Front Stone Guard,52,1,used,1,Dealer/OEM,1,0,repair,10,Missing,4,no,-,-,,6000,11/6/2024 13:33
+468,24,Honda,294,Odyssey,3065,DBA-RB1,30,1,Body,Front Bumper,52,1,used,1,Dealer/OEM,1,0,repair,2,Torn,4,yes,2,Ordinary,3,48000,11/6/2024 13:33
+468,24,Honda,294,Odyssey,3065,DBA-RB1,38,1,Body,Front Wiper Blades (Pair),52,0,new,0,Generic,1,0,repair,9,Bent,4,no,-,-,,3000,11/6/2024 13:33
+468,24,Honda,294,Odyssey,3065,DBA-RB1,902,8,Services,Labour Charges,52,2,-,-,-,1,-,-,-,-,4,no,-,-,,16000,11/6/2024 13:33
+468,24,Honda,294,Odyssey,3065,DBA-RB1,903,8,Services,Painting Per Panel,52,2,-,-,-,1,-,-,-,-,4,no,-,-,,6000,11/6/2024 13:33
+468,24,Honda,294,Odyssey,3065,DBA-RB1,1029,8,Services,2k Primer,52,2,-,-,-,1,-,-,-,-,4,no,-,-,,2500,11/6/2024 13:33
+468,24,Honda,294,Odyssey,3065,DBA-RB1,1010,8,Services,Miscellaneous,52,2,-,-,-,1,-,-,-,-,4,no,-,-,,2500,11/6/2024 13:33
+486,24,Honda,246,CR-V,5372,DBA-RM1,1063,1,Body,LHS Fog Light Cover,52,1,used,1,Dealer/OEM,1,0,repair,10,Missing,5,no,-,-,,3000,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,1064,1,Body,RHS Fog Light Cover,52,1,used,1,Dealer/OEM,1,0,repair,2,Torn,5,no,-,-,,3000,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,46,1,Body,LHS Front Wing,52,2,-,-,-,1,1,replace,3,Dented,5,yes,2,Ordinary,6,,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,47,1,Body,RHS Front Wing,52,2,-,-,-,1,1,replace,1,Scratched,5,yes,2,Ordinary,6,,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,134,1,Body,RHS Front Door,52,2,-,-,-,1,1,replace,3,Dented,5,yes,2,Ordinary,6,,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,133,1,Body,LHS Front Door,52,2,-,-,-,1,1,replace,3,Dented,5,yes,2,Ordinary,6,,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,689,3,Electrical,RHS Fog Light,52,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,no,-,-,,5500,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,688,3,Electrical,LHS Fog Light,52,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,no,-,-,,5500,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,1313,3,Electrical,RHS Fog Light Bulb,52,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,no,-,-,,1200,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,1312,3,Electrical,LHS Fog Light Bulb,52,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,no,-,-,,1200,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,4,1,Body,Bonnet Lid,52,2,-,-,-,1,1,replace,1,Scratched,5,yes,2,Ordinary,6,,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,1072,1,Body,RHF Wheel Arch Moulding,52,2,-,-,-,1,1,replace,1,Scratched,5,yes,2,Ordinary,6,,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,1071,1,Body,LHF Wheel Arch Moulding,52,2,-,-,-,1,1,replace,1,Scratched,5,yes,2,Ordinary,6,,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,68,1,Body,LHS Side Mirror With Blinker,52,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,yes,2,Ordinary,6,24000,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,1284,2,Engine & Chassis,Engine Splash Guard,52,1,used,1,Dealer/OEM,1,0,repair,2,Torn,5,no,-,-,,10000,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,719,2,Engine & Chassis,Engine Cradle,37,1,used,1,Dealer/OEM,1,0,repair,19,Crushed,5,no,-,-,,20880,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,727,2,Engine & Chassis,LHS Front Drive Shaft,37,1,used,1,Dealer/OEM,1,0,repair,9,Bent,5,no,-,-,,11600,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,862,2,Engine & Chassis,Lower Gear Box Mounting,52,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,no,-,-,,6500,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,887,4,Interior,Co-Driver Seat Belt,52,1,used,1,Dealer/OEM,1,0,repair,21,Deployed,5,no,-,-,,8000,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,889,4,Interior,Driver Seat Belt,52,1,used,1,Dealer/OEM,1,0,repair,21,Deployed,5,no,-,-,,8000,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,1844,1,Body,RHS Curtain Airbag,52,1,used,1,Dealer/OEM,1,0,repair,21,Deployed,5,no,-,-,,18000,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,2267,1,Body,LHS Curtain Airbag,52,1,used,1,Dealer/OEM,1,0,repair,21,Deployed,5,no,-,-,,18000,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,1476,1,Body,Roof Lining,52,1,used,1,Dealer/OEM,1,0,repair,2,Torn,5,no,-,-,,14000,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,676,3,Electrical,SRS Module / Air Bag Control Unit,52,1,used,1,Dealer/OEM,1,0,repair,21,Deployed,5,no,-,-,,12000,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,902,8,Services,Labour Charges,52,2,-,-,-,1,-,-,-,-,5,no,-,-,,18000,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,903,8,Services,Painting Per Panel,52,2,-,-,-,1,-,-,-,-,5,no,-,-,,5500,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,1028,8,Services,A/C Gas,52,2,-,-,-,1,-,-,-,-,5,no,-,-,,4500,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,1002,8,Services,Gas Welding,52,2,-,-,-,1,-,-,-,-,5,no,-,-,,3000,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,905,8,Services,Chassis Jigging,52,2,-,-,-,1,-,-,-,-,5,no,-,-,,4000,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,1010,8,Services,Miscellaneous,52,2,-,-,-,1,-,-,-,-,5,no,-,-,,2500,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,1007,8,Services,Mechanical Labour,52,2,-,-,-,1,-,-,-,-,5,no,-,-,,5000,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,981,5,Accessories,RHS Running Board Cover,52,2,-,-,-,1,1,replace,1,Scratched,5,yes,2,Ordinary,6,,11/28/2024 8:40
+486,24,Honda,246,CR-V,5372,DBA-RM1,2729,1,Body,Nose Cut (Ordinary Lights Less Grille & Headlights),52,1,used,1,Dealer/OEM,1,0,repair,10,Missing,5,yes,2,Ordinary,6,265000,11/28/2024 8:40
+489,24,Honda,256,Fit,2848,DBA-GK3,1164,1,Body,RHF Wing Panel,47,2,-,-,-,1,1,replace,1,Scratched,2,yes,2,Ordinary,2,,12/3/2024 11:57
+489,24,Honda,256,Fit,2848,DBA-GK3,2111,1,Body,Washer Bottle Pipe,47,1,used,1,Dealer/OEM,1,0,repair,2,Torn,2,no,-,-,,1500,12/3/2024 11:57
+489,24,Honda,256,Fit,2848,DBA-GK3,53,1,Body,RHS Front Wing Liner,47,1,used,1,Dealer/OEM,1,0,repair,2,Torn,2,no,-,-,,4500,12/3/2024 11:57
+489,24,Honda,256,Fit,2848,DBA-GK3,1142,1,Body,Front Bumper With Tow Hook Cover,47,1,used,1,Dealer/OEM,1,0,repair,2,Torn,2,yes,2,Ordinary,2,36000,12/3/2024 11:57
+489,24,Honda,256,Fit,2848,DBA-GK3,1064,1,Body,RHS Fog Light Cover,47,0,new,0,Generic,1,0,repair,7,Cracked,2,no,-,-,,6000,12/3/2024 11:57
+489,24,Honda,256,Fit,2848,DBA-GK3,902,8,Services,Labour Charges,47,2,-,-,-,1,-,-,-,-,2,no,-,-,,7000,12/3/2024 11:57
+489,24,Honda,256,Fit,2848,DBA-GK3,903,8,Services,Painting Per Panel,47,2,-,-,-,1,-,-,-,-,2,no,-,-,,5500,12/3/2024 11:57
+489,24,Honda,256,Fit,2848,DBA-GK3,1010,8,Services,Miscellaneous,47,2,-,-,-,1,-,-,-,-,2,no,-,-,,1000,12/3/2024 11:57
+551,24,Honda,256,Fit,5786,DAA-GPI,932,1,Body,LHS Front Windbreaker,56,0,new,1,Dealer/OEM,1,0,repair,11,Broken,3,no,-,-,,2000,2/3/2025 13:38
+551,24,Honda,256,Fit,5786,DAA-GPI,934,1,Body,LHS Rear Windbreaker,56,0,new,1,Dealer/OEM,1,0,repair,11,Broken,3,no,-,-,,2000,2/3/2025 13:38
+551,24,Honda,256,Fit,5786,DAA-GPI,133,1,Body,LHS Front Door,37,0,new,1,Dealer/OEM,1,0,repair,2,Torn,3,yes,3,Pearl,3,29000,2/3/2025 13:38
+551,24,Honda,256,Fit,5786,DAA-GPI,135,1,Body,LHS Rear Door,56,2,-,-,-,1,1,replace,3,Dented,3,yes,3,Pearl,3,,2/3/2025 13:38
+551,24,Honda,256,Fit,5786,DAA-GPI,48,1,Body,LHS Rear Wing,56,2,-,-,-,1,1,replace,1,Scratched,3,yes,3,Pearl,3,,2/3/2025 13:38
+551,24,Honda,256,Fit,5786,DAA-GPI,64,1,Body,LHS Running Board,56,2,-,-,-,1,1,replace,3,Dented,3,yes,3,Pearl,3,,2/3/2025 13:38
+551,24,Honda,256,Fit,5786,DAA-GPI,902,8,Services,Labour Charges,56,2,-,-,-,1,-,-,-,-,3,no,-,-,,6000,2/3/2025 13:38
+551,24,Honda,256,Fit,5786,DAA-GPI,903,8,Services,Painting Per Panel,56,2,-,-,-,1,-,-,-,-,3,no,-,-,,5500,2/3/2025 13:38
+551,24,Honda,256,Fit,5786,DAA-GPI,1029,8,Services,2k Primer,56,2,-,-,-,1,-,-,-,-,3,no,-,-,,2000,2/3/2025 13:38
+551,24,Honda,256,Fit,5786,DAA-GPI,1002,8,Services,Gas Welding,56,2,-,-,-,1,-,-,-,-,3,no,-,-,,2000,2/3/2025 13:38
+551,24,Honda,256,Fit,5786,DAA-GPI,1010,8,Services,Miscellaneous,56,2,-,-,-,1,-,-,-,-,3,no,-,-,,2000,2/3/2025 13:38
+557,24,Honda,246,CR-V,5346,DBA-RM4,133,1,Body,LHS Front Door,105,2,-,-,-,1,1,replace,1,Scratched,3,yes,3,Pearl,2,,2/10/2025 10:05
+557,24,Honda,246,CR-V,5346,DBA-RM4,150,1,Body,Door Hinges,105,1,used,0,Generic,2,0,repair,9,Bent,3,no,-,-,,4800,2/10/2025 10:05
+557,24,Honda,246,CR-V,5346,DBA-RM4,902,8,Services,Labour Charges,105,2,-,-,-,1,-,-,-,-,3,no,-,-,,12000,2/10/2025 10:05
+557,24,Honda,246,CR-V,5346,DBA-RM4,903,8,Services,Painting Per Panel,105,2,-,-,-,1,-,-,-,-,3,no,-,-,,6500,2/10/2025 10:05
+557,24,Honda,246,CR-V,5346,DBA-RM4,1029,8,Services,2k Primer,105,2,-,-,-,1,-,-,-,-,3,no,-,-,,1500,2/10/2025 10:05
+557,24,Honda,246,CR-V,5346,DBA-RM4,1010,8,Services,Miscellaneous,105,2,-,-,-,1,-,-,-,-,3,no,-,-,,1500,2/10/2025 10:05
+557,24,Honda,246,CR-V,5346,DBA-RM4,2615,1,Body,LHR Door Shell,105,1,used,0,Generic,1,0,repair,4,Buckled,3,yes,3,Pearl,2,30000,2/10/2025 10:05
+583,24,Honda,267,Grace,2716,DAA-GM6,4,1,Body,Bonnet Lid,223,2,-,-,-,1,1,replace,3,Dented,5,yes,3,Pearl,4,,3/5/2025 12:20
+583,24,Honda,267,Grace,2716,DAA-GM6,1498,1,Body,Front Grille (with Badge),37,1,used,1,Dealer/OEM,1,0,repair,10,Missing,5,no,-,-,,28768,3/5/2025 12:20
+583,24,Honda,267,Grace,2716,DAA-GM6,30,1,Body,Front Bumper,223,2,-,-,-,1,1,replace,3,Dented,5,yes,3,Pearl,4,,3/5/2025 12:20
+583,24,Honda,267,Grace,2716,DAA-GM6,14,1,Body,Boot Lid,223,2,-,-,-,1,1,replace,3,Dented,5,yes,3,Pearl,4,,3/5/2025 12:20
+583,24,Honda,267,Grace,2716,DAA-GM6,82,1,Body,Rear Bumper,223,2,-,-,-,1,1,replace,3,Dented,5,yes,3,Pearl,4,,3/5/2025 12:20
+583,24,Honda,267,Grace,2716,DAA-GM6,1683,1,Body,Boot Catch Panel,223,2,-,-,-,1,1,replace,3,Dented,5,yes,3,Pearl,4,,3/5/2025 12:20
+583,24,Honda,267,Grace,2716,DAA-GM6,1098,3,Electrical,RHS Headlight Bracket,223,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,no,-,-,,9600,3/5/2025 12:20
+583,24,Honda,267,Grace,2716,DAA-GM6,1537,1,Body,RHS Radiator Panel Frame,223,2,-,-,-,1,1,replace,3,Dented,5,yes,3,Pearl,4,,3/5/2025 12:20
+583,24,Honda,267,Grace,2716,DAA-GM6,902,8,Services,Labour Charges,223,2,-,-,-,1,-,-,-,-,5,no,-,-,,15000,3/5/2025 12:20
+583,24,Honda,267,Grace,2716,DAA-GM6,903,8,Services,Painting Per Panel,223,2,-,-,-,1,-,-,-,-,5,no,-,-,,6500,3/5/2025 12:20
+583,24,Honda,267,Grace,2716,DAA-GM6,1029,8,Services,2k Primer,223,2,-,-,-,1,-,-,-,-,5,no,-,-,,2000,3/5/2025 12:20
+583,24,Honda,267,Grace,2716,DAA-GM6,1010,8,Services,Miscellaneous,223,2,-,-,-,1,-,-,-,-,5,no,-,-,,1500,3/5/2025 12:20
+583,24,Honda,267,Grace,2716,DAA-GM6,698,3,Electrical,RHS Headlight (Xenon),223,2,-,-,-,1,1,replace,7,Cracked,5,no,-,-,,,3/5/2025 12:20
+583,24,Honda,267,Grace,2716,DAA-GM6,1002,8,Services,Gas Welding,223,2,-,-,-,1,-,-,-,-,5,no,-,-,,3000,3/5/2025 12:20
+601,24,Honda,246,CR-V,2801,DBA-RE4,1498,1,Body,Front Grille (with Badge),44,1,used,1,Dealer/OEM,1,0,repair,11,Broken,4,no,-,-,,22000,3/18/2025 13:40
+601,24,Honda,246,CR-V,2801,DBA-RE4,30,1,Body,Front Bumper,44,1,used,1,Dealer/OEM,1,0,repair,2,Torn,4,yes,3,Pearl,3,32000,3/18/2025 13:40
+601,24,Honda,246,CR-V,2801,DBA-RE4,4,1,Body,Bonnet Lid,44,2,-,-,-,1,1,replace,3,Dented,4,yes,3,Pearl,3,,3/18/2025 13:40
+601,24,Honda,246,CR-V,2801,DBA-RE4,694,3,Electrical,LHS Headlight (Xenon),37,1,used,1,Dealer/OEM,1,0,repair,10,Missing,4,no,-,-,,44080,3/18/2025 13:40
+601,24,Honda,246,CR-V,2801,DBA-RE4,9,1,Body,Left Bonnet Hinge,37,1,used,1,Dealer/OEM,1,0,repair,9,Bent,4,no,-,-,,2900,3/18/2025 13:40
+601,24,Honda,246,CR-V,2801,DBA-RE4,998,1,Body,Right Bonnet Hinge,37,1,used,1,Dealer/OEM,1,0,repair,8,Ripped off,4,no,-,-,,2900,3/18/2025 13:40
+601,24,Honda,246,CR-V,2801,DBA-RE4,46,1,Body,LHS Front Wing,44,2,-,-,-,1,1,replace,3,Dented,4,yes,3,Pearl,3,,3/18/2025 13:40
+601,24,Honda,246,CR-V,2801,DBA-RE4,1375,1,Body,Horn,44,1,used,1,Dealer/OEM,1,0,repair,9,Bent,4,no,-,-,,2000,3/18/2025 13:40
+601,24,Honda,246,CR-V,2801,DBA-RE4,1536,1,Body,LHS Radiator Panel Frame,44,1,used,1,Dealer/OEM,1,0,repair,4,Buckled,4,yes,3,Pearl,3,6000,3/18/2025 13:40
+601,24,Honda,246,CR-V,2801,DBA-RE4,711,2,Engine & Chassis,Cooling Radiator,44,1,used,1,Dealer/OEM,1,0,repair,9,Bent,4,no,-,-,,20000,3/18/2025 13:40
+601,24,Honda,246,CR-V,2801,DBA-RE4,710,2,Engine & Chassis,A/C Radiator,44,1,used,1,Dealer/OEM,1,0,repair,9,Bent,4,no,-,-,,15000,3/18/2025 13:40
+601,24,Honda,246,CR-V,2801,DBA-RE4,1781,2,Engine & Chassis,Coolant Reservoir,44,1,used,1,Dealer/OEM,1,0,repair,15,Leaking,4,no,-,-,,4500,3/18/2025 13:40
+601,24,Honda,246,CR-V,2801,DBA-RE4,902,8,Services,Labour Charges,44,2,-,-,-,1,-,-,-,-,4,no,-,-,,16000,3/18/2025 13:40
+601,24,Honda,246,CR-V,2801,DBA-RE4,903,8,Services,Painting Per Panel,44,2,-,-,-,1,-,-,-,-,4,no,-,-,,6500,3/18/2025 13:40
+601,24,Honda,246,CR-V,2801,DBA-RE4,1029,8,Services,2k Primer,44,2,-,-,-,1,-,-,-,-,4,no,-,-,,2000,3/18/2025 13:40
+601,24,Honda,246,CR-V,2801,DBA-RE4,1028,8,Services,A/C Gas,44,2,-,-,-,1,-,-,-,-,4,no,-,-,,5000,3/18/2025 13:40
+601,24,Honda,246,CR-V,2801,DBA-RE4,900,7,Consumables,Coolant,44,0,new,0,Generic,1,0,repair,15,Leaking,4,no,-,-,,4000,3/18/2025 13:40
+601,24,Honda,246,CR-V,2801,DBA-RE4,17,1,Body,LHS Front Bumper Slide,37,1,used,1,Dealer/OEM,1,0,repair,11,Broken,4,no,-,-,,2320,3/18/2025 13:40
+601,24,Honda,246,CR-V,2801,DBA-RE4,1010,8,Services,Miscellaneous,44,2,-,-,-,1,-,-,-,-,4,no,-,-,,1500,3/18/2025 13:40
+608,24,Honda,256,Fit,5786,DAA-GPI,68,1,Body,LHS Side Mirror With Blinker,37,1,used,0,Generic,1,0,repair,11,Broken,4,no,-,-,,17400,4/3/2025 12:39
+608,24,Honda,256,Fit,5786,DAA-GPI,133,1,Body,LHS Front Door,37,1,used,0,Generic,1,0,repair,3,Dented,4,yes,3,Pearl,3,32480,4/3/2025 12:39
+608,24,Honda,256,Fit,5786,DAA-GPI,2615,1,Body,LHR Door Shell,37,1,used,0,Generic,1,0,repair,3,Dented,4,yes,3,Pearl,3,29000,4/3/2025 12:39
+608,24,Honda,256,Fit,5786,DAA-GPI,48,1,Body,LHS Rear Wing,222,2,-,-,-,1,1,replace,3,Dented,4,yes,3,Pearl,3,,4/3/2025 12:39
+608,24,Honda,256,Fit,5786,DAA-GPI,902,8,Services,Labour Charges,222,2,-,-,-,1,-,-,-,-,4,no,-,-,,9000,4/3/2025 12:39
+608,24,Honda,256,Fit,5786,DAA-GPI,903,8,Services,Painting Per Panel,222,2,-,-,-,1,-,-,-,-,4,no,-,-,,5000,4/3/2025 12:39
+608,24,Honda,256,Fit,5786,DAA-GPI,1029,8,Services,2k Primer,222,2,-,-,-,1,-,-,-,-,4,no,-,-,,1000,4/3/2025 12:39
+608,24,Honda,256,Fit,5786,DAA-GPI,1010,8,Services,Miscellaneous,222,2,-,-,-,1,-,-,-,-,4,no,-,-,,1000,4/3/2025 12:39
+608,24,Honda,256,Fit,5786,DAA-GPI,1582,1,Body,LHR Door Rubber,222,1,used,0,Generic,1,0,repair,2,Torn,4,no,-,-,,6000,4/3/2025 12:39
+608,24,Honda,256,Fit,5786,DAA-GPI,1079,1,Body,LHS Rear Door Upper Hinge,222,1,used,1,Dealer/OEM,1,0,repair,9,Bent,4,no,-,-,,3500,4/3/2025 12:39
+626,24,Honda,310,Stream,3190,DBA-RN6,1498,1,Body,Front Grille (with Badge),32,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,no,-,-,,23200,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,30,1,Body,Front Bumper,37,1,used,1,Dealer/OEM,1,0,repair,2,Torn,5,yes,2,Ordinary,1,29000,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,1098,3,Electrical,RHS Headlight Bracket,37,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,no,-,-,,3480,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,719,2,Engine & Chassis,Engine Cradle,52,1,used,1,Dealer/OEM,1,0,repair,9,Bent,5,no,-,-,,14400,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,919,1,Body,Washer Bottle,52,1,used,1,Dealer/OEM,1,0,repair,15,Leaking,5,no,-,-,,7500,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,2317,1,Body,Stabilizer Bar Brackets,52,1,used,1,Dealer/OEM,1,0,repair,9,Bent,5,no,-,-,,6000,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,720,2,Engine & Chassis,Front Stabilizer Bar,52,1,used,1,Dealer/OEM,1,0,repair,9,Bent,5,no,-,-,,12000,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,1343,2,Engine & Chassis,RHF Knuckle With Disc,52,1,used,1,Dealer/OEM,1,0,repair,9,Bent,5,no,-,-,,12500,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,728,2,Engine & Chassis,RHS Front Drive Shaft,52,1,used,1,Dealer/OEM,1,0,repair,9,Bent,5,no,-,-,,11000,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,725,1,Body,RHS Lower Front Control Arm,52,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,no,-,-,,7500,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,1038,2,Engine & Chassis,RHS Front Stabilizer Link,52,1,used,1,Dealer/OEM,1,0,repair,9,Bent,5,no,-,-,,2500,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,902,8,Services,Labour Charges,52,2,-,-,-,1,-,-,-,-,5,no,-,-,,12000,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,903,8,Services,Painting Per Panel,52,2,-,-,-,1,-,-,-,-,5,no,-,-,,6000,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,1029,8,Services,2k Primer,52,2,-,-,-,1,-,-,-,-,5,no,-,-,,2000,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,1010,8,Services,Miscellaneous,52,2,-,-,-,1,-,-,-,-,5,no,-,-,,3000,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,2218,1,Body,RHS Front Rim,52,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,no,-,-,,14000,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,1592,6,Wheels,RHF Tyre,52,1,used,1,Dealer/OEM,1,0,repair,2,Torn,5,no,-,-,,19000,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,738,2,Engine & Chassis,RHS Front Tie Rod,52,1,used,1,Dealer/OEM,1,0,repair,9,Bent,5,no,-,-,,5500,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,1996,1,Body,RHS Tie Rod End,52,1,used,1,Dealer/OEM,1,0,repair,9,Bent,5,no,-,-,,5500,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,914,1,Body,RHS Front Stone Guard,52,1,used,1,Dealer/OEM,1,0,repair,2,Torn,5,no,-,-,,5500,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,1007,8,Services,Mechanical Labour,52,2,-,-,-,1,-,-,-,-,5,no,-,-,,5000,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,104,1,Body,Front Windscreen,52,1,used,1,Dealer/OEM,1,0,repair,20,Smashed,5,no,-,-,,15000,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,926,1,Body,Windscreen Sealant,52,1,used,1,Dealer/OEM,1,0,repair,15,Leaking,5,no,-,-,,2000,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,1966,1,Body,RHS Front Shock Absorber,52,1,used,1,Dealer/OEM,1,0,repair,15,Leaking,5,no,-,-,,10000,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,2929,2,Engine & Chassis,Gear Selector Cable Cover (Aluminium),52,1,used,1,Dealer/OEM,1,0,repair,11,Broken,5,no,-,-,,12000,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,2291,1,Body,ABs Control Module,52,1,used,1,Dealer/OEM,1,0,repair,14,Malfunctioned,5,no,-,-,,18000,4/22/2025 9:44
+626,24,Honda,310,Stream,3190,DBA-RN6,1859,1,Body,Front Bumper Slides,52,1,used,1,Dealer/OEM,2,0,repair,9,Bent,5,no,-,-,,3000,4/22/2025 9:44
+635,24,Honda,310,Stream,3190,DBA-RN6,82,1,Body,Rear Bumper,56,2,-,-,-,1,1,replace,1,Scratched,3,yes,2,Ordinary,4,,5/5/2025 12:49
+635,24,Honda,310,Stream,3190,DBA-RN6,2615,1,Body,LHR Door Shell,29,0,new,1,Dealer/OEM,1,0,repair,4,Buckled,3,yes,2,Ordinary,4,19720,5/5/2025 12:49
+635,24,Honda,310,Stream,3190,DBA-RN6,133,1,Body,LHS Front Door,56,2,-,-,-,1,1,replace,1,Scratched,3,yes,2,Ordinary,4,,5/5/2025 12:49
+635,24,Honda,310,Stream,3190,DBA-RN6,902,8,Services,Labour Charges,56,2,-,-,-,1,-,-,-,-,3,no,-,-,,5500,5/5/2025 12:49
+635,24,Honda,310,Stream,3190,DBA-RN6,903,8,Services,Painting Per Panel,56,2,-,-,-,1,-,-,-,-,3,no,-,-,,6000,5/5/2025 12:49
+635,24,Honda,310,Stream,3190,DBA-RN6,1002,8,Services,Gas Welding,56,2,-,-,-,1,-,-,-,-,3,no,-,-,,4000,5/5/2025 12:49
+635,24,Honda,310,Stream,3190,DBA-RN6,1029,8,Services,2k Primer,56,2,-,-,-,1,-,-,-,-,3,no,-,-,,2000,5/5/2025 12:49
+635,24,Honda,310,Stream,3190,DBA-RN6,1010,8,Services,Miscellaneous,56,2,-,-,-,1,-,-,-,-,3,no,-,-,,1500,5/5/2025 12:49
+635,24,Honda,310,Stream,3190,DBA-RN6,48,1,Body,LHS Rear Wing,56,2,-,-,-,1,1,replace,3,Dented,3,yes,2,Ordinary,4,,5/5/2025 12:49

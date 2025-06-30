@@ -12,12 +12,12 @@ and services rendered.
 
 ## 🧹 Data Cleaning Steps
 
-- Missing **`unit_price_(vat_incl_16%)'** values imputed using model-specific medians.
-- Total repair cost computed as `unit_price * quantity`.
+- Missing **`unit_price_(vat_incl._16%)'** values imputed using model-specific medians.
+- Total repair cost computed as `unit_price_(vat_incl._16%) * quantity`.
 - Incomplete fix types (`'-'`) identified and handled.
 - Making necessary changes to data types as well as renaming columns
 
-## ## General Conclusions
+##  General Conclusions
 - Repair costs vary by model — Models like DBA-RM4 and DAA-RU3 are the most expensive to repair.
 
 - Repairs are costlier than replacements — Especially in electrical and body service categories.
@@ -26,7 +26,7 @@ and services rendered.
 
 - Some parts are mostly repaired, not replaced — e.g., interior, consumables.repaired.
 
-## ✅## General recommendations
+## ✅ General recommendations
 - Consider replacing over repairing for high-cost services to save time and labor.
 
 - Improve diagnostics to avoid unnecessary, expensive repairs.
@@ -46,8 +46,6 @@ and services rendered.
 - Python (Pandas, Seaborn, Matplotlib)
 - Jupyter Notebook
 
-## 📬 Contact
 
-For questions or collaboration, please reach out to [Your Name] at [your.email@example.com].
 
 
